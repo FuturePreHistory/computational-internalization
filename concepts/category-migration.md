@@ -1,3 +1,7 @@
+---
+layout: default
+title: Category Migration
+---
 # Category Migration
 
 范畴迁移
