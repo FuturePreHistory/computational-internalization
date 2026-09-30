@@ -1,3 +1,7 @@
+---
+layout: default
+title: Computational Internalization
+---
 # Computational Internalization
 
 计算性内化
