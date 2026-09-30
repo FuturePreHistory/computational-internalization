@@ -1,0 +1,38 @@
+cff-version: "1.2.0"
+message: "If you cite this repository, please cite it as below."
+
+authors:
+  - name: "FuturePreHistory Archive"
+    alias: "FuturePreHistory"
+
+title: "When Model Judgments Become Intuition: How Computational Relations Enter Pre-reflective Experience"
+version: "0.1.0"
+date-released: "2026-09-20"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/FuturePreHistory/computational-internalization"
+url: "https://github.com/FuturePreHistory/computational-internalization"
+
+keywords:
+  - "computational internalization"
+  - "category migration"
+  - "pre-reflective experience"
+  - "computational relations"
+  - "technical translation"
+  - "sensory augmentation"
+  - "human-machine coupling"
+  - "epistemology"
+  - "philosophy of technology"
+  - "AI-mediated experience"
+
+abstract: "This repository archives a theoretical essay on how machine-maintained computational relations may acquire pre-reflective experiential efficacy through technically designed translation. It develops the concepts of category migration and computational internalization, distinguishes ordinary cases from strong Lambda relations lacking independent perceptual reconstruction paths, and analyzes the epistemic, technical, temporal, and institutional consequences of allowing computational relations to participate in the organization of similarity, salience, expectation, and possibilities for action."
+
+preferred-citation:
+  type: generic
+  authors:
+    - name: "FuturePreHistory Archive"
+      alias: "FuturePreHistory"
+  title: "When Model Judgments Become Intuition: How Computational Relations Enter Pre-reflective Experience"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/FuturePreHistory/computational-internalization"
+  date-released: "2026-09-20"
