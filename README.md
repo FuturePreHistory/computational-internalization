@@ -8,6 +8,8 @@ When Model Judgments Become Intuition: How Computational Relations Enter Pre-ref
 
 This repository archives the canonical draft of a theoretical essay on category migration, computational internalization, and the technical translation of machine-maintained relations into pre-reflective human experience.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23054869.svg)](https://doi.org/10.5281/zenodo.23054869)
+
 ## Core question
 
 Machine systems increasingly maintain relational structures that no single human subject can independently reconstruct, integrate, or continuously compute.
@@ -116,7 +118,9 @@ If computational relations can acquire pre-reflective experiential efficacy, sev
 
 ## Citation
 
-FuturePreHistory Archive. When Model Judgments Become Intuition: How Computational Relations Enter Pre-reflective Experience. Version 0.1.0. GitHub, 2026.
+FuturePreHistory Archive. When Model Judgments Become Intuition: How Computational Relations Enter Pre-reflective Experience. Version 0.1.0. Zenodo, 2026. DOI: 10.5281/zenodo.23054868.
+
+Project DOI: 10.5281/zenodo.23054869.
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
